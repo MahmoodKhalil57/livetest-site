@@ -99,18 +99,6 @@
         }
       ],
       "successMessage": "You are on the list."
-    },
-    {
-      "slug": "throwaway",
-      "name": "Throwaway",
-      "status": "draft",
-      "fields": [
-        {
-          "name": "email",
-          "label": "Email",
-          "type": "email"
-        }
-      ]
     }
   ]
 }
