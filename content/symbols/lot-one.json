@@ -1,8 +1,9 @@
 {
   "id": "lot-one",
-  "name": "Lot One grid",
+  "name": "Lot One",
   "binding": {
     "type": "none"
   },
-  "source": "catalog.items"
+  "source": "catalog.items",
+  "title": "Edited via Save — live preview check"
 }
