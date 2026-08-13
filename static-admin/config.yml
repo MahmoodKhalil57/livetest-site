@@ -306,6 +306,10 @@ collections:
   # ---------------------------------------------------------------------------
   - name: "project"
     label: "Forms & project"
+    # The site's sign-up form is markup baked into index.html; no page reads
+    # this file at render time. Previewing the site here would suggest editing
+    # it changes that page, so the panel previews the forms themselves.
+    preview: "forms"
     files:
       - name: "admin-cms"
         label: "Forms & project"
