@@ -61,7 +61,7 @@
                         "copyable": false,
                         "editable": false,
                         "hoverable": false,
-                        "content": "Edited from the adminCms panel."
+                        "content": "Lot One opens to the list first. Nothing is held back for later."
                       }
                     ]
                   }
@@ -549,9 +549,9 @@
                                         "type": "textnode",
                                         "content": "Lot ",
                                         "attributes": {
-                                          "id": "iylj42"
+                                          "id": "i5jutv"
                                         },
-                                        "__symbol": "i8zyv1"
+                                        "__symbol": "i0mkoh"
                                       },
                                       {
                                         "tagName": "span",
@@ -566,9 +566,9 @@
                                             "type": "textnode",
                                             "content": "01",
                                             "attributes": {
-                                              "id": "i6fkdp"
+                                              "id": "iwt5ez"
                                             },
-                                            "__symbol": "iw915t"
+                                            "__symbol": "im88to"
                                           }
                                         ]
                                       }
@@ -590,9 +590,9 @@
                                         "type": "textnode",
                                         "content": "Opens first",
                                         "attributes": {
-                                          "id": "icxavo"
+                                          "id": "i50om2"
                                         },
-                                        "__symbol": "iajz93"
+                                        "__symbol": "ihm5n2"
                                       }
                                     ]
                                   }
@@ -614,9 +614,9 @@
                                     "type": "textnode",
                                     "content": "Java reed pen, cut to your angle",
                                     "attributes": {
-                                      "id": "io6qfg"
+                                      "id": "icm3g3"
                                     },
-                                    "__symbol": "ike0zo"
+                                    "__symbol": "ie1th4"
                                   }
                                 ]
                               },
@@ -636,9 +636,9 @@
                                     "type": "textnode",
                                     "content": "Seasoned three years, cut at the qatt you name. Ships with a bone qat'ah for the second cut.",
                                     "attributes": {
-                                      "id": "iqlnyt"
+                                      "id": "i3hj8y"
                                     },
-                                    "__symbol": "ic3k74"
+                                    "__symbol": "i2og1l"
                                   }
                                 ]
                               },
@@ -658,9 +658,9 @@
                                     "type": "textnode",
                                     "content": "From 34",
                                     "attributes": {
-                                      "id": "i8mqoi"
+                                      "id": "ipk2dm"
                                     },
-                                    "__symbol": "icenbe"
+                                    "__symbol": "iwf5vh"
                                   }
                                 ]
                               }
@@ -748,9 +748,9 @@
                                         "hoverable": false,
                                         "content": "Lot ",
                                         "attributes": {
-                                          "id": "i602ax"
+                                          "id": "iu6ghe"
                                         },
-                                        "__symbol": "ikd1f1"
+                                        "__symbol": "ik7mjs"
                                       },
                                       {
                                         "tagName": "span",
@@ -776,9 +776,9 @@
                                             "hoverable": false,
                                             "content": "02",
                                             "attributes": {
-                                              "id": "iole7f"
+                                              "id": "iybv1f"
                                             },
-                                            "__symbol": "icpnuw"
+                                            "__symbol": "isq70k"
                                           }
                                         ]
                                       }
@@ -811,9 +811,9 @@
                                         "hoverable": false,
                                         "content": "30 made",
                                         "attributes": {
-                                          "id": "inlzns"
+                                          "id": "ig5ygk"
                                         },
-                                        "__symbol": "ib6k2i"
+                                        "__symbol": "i639si"
                                       }
                                     ]
                                   }
@@ -846,9 +846,9 @@
                                     "hoverable": false,
                                     "content": "Lamp-black ink, one cooking",
                                     "attributes": {
-                                      "id": "ious61"
+                                      "id": "iekb0m"
                                     },
-                                    "__symbol": "igwke1"
+                                    "__symbol": "iygqdk"
                                   }
                                 ]
                               },
@@ -879,9 +879,9 @@
                                     "hoverable": false,
                                     "content": "Soot, gum arabic, and a long stir. Thirty bottles from a single pot, then the pot is done.",
                                     "attributes": {
-                                      "id": "inpie4"
+                                      "id": "i66wzg"
                                     },
-                                    "__symbol": "ikuuch"
+                                    "__symbol": "itclmt"
                                   }
                                 ]
                               },
@@ -912,9 +912,9 @@
                                     "hoverable": false,
                                     "content": "18",
                                     "attributes": {
-                                      "id": "ij3wbj"
+                                      "id": "ighzas"
                                     },
-                                    "__symbol": "i89sug"
+                                    "__symbol": "iv2bu2"
                                   }
                                 ]
                               }
@@ -1002,9 +1002,9 @@
                                         "hoverable": false,
                                         "content": "Lot ",
                                         "attributes": {
-                                          "id": "iq2jzy"
+                                          "id": "iue9ag"
                                         },
-                                        "__symbol": "i7no7j"
+                                        "__symbol": "il95nk"
                                       },
                                       {
                                         "tagName": "span",
@@ -1030,9 +1030,9 @@
                                             "hoverable": false,
                                             "content": "03",
                                             "attributes": {
-                                              "id": "imik9a"
+                                              "id": "ih2kei"
                                             },
-                                            "__symbol": "igfre9"
+                                            "__symbol": "i46hco"
                                           }
                                         ]
                                       }
@@ -1065,9 +1065,9 @@
                                         "hoverable": false,
                                         "content": "Opens first",
                                         "attributes": {
-                                          "id": "i0h6ck"
+                                          "id": "is5y9n"
                                         },
-                                        "__symbol": "iz3col"
+                                        "__symbol": "icvwdz"
                                       }
                                     ]
                                   }
@@ -1100,9 +1100,9 @@
                                     "hoverable": false,
                                     "content": "Ahar paper, burnished by hand",
                                     "attributes": {
-                                      "id": "innmap"
+                                      "id": "il15hl"
                                     },
-                                    "__symbol": "ivdkon"
+                                    "__symbol": "ijk8wt"
                                   }
                                 ]
                               },
@@ -1133,9 +1133,9 @@
                                     "hoverable": false,
                                     "content": "Sized with starch, dried flat, then run under agate until the surface refuses to bleed.",
                                     "attributes": {
-                                      "id": "idkxlq"
+                                      "id": "i2bklg"
                                     },
-                                    "__symbol": "ihfsw8"
+                                    "__symbol": "iv9vhi"
                                   }
                                 ]
                               },
@@ -1166,9 +1166,9 @@
                                     "hoverable": false,
                                     "content": "26 for 25 sheets",
                                     "attributes": {
-                                      "id": "iffuwb"
+                                      "id": "itdt76"
                                     },
-                                    "__symbol": "iksv5i"
+                                    "__symbol": "i66qqy"
                                   }
                                 ]
                               }
@@ -1256,9 +1256,9 @@
                                         "hoverable": false,
                                         "content": "Lot ",
                                         "attributes": {
-                                          "id": "igm5n3"
+                                          "id": "ic5y7b"
                                         },
-                                        "__symbol": "igkxs8"
+                                        "__symbol": "iginlh"
                                       },
                                       {
                                         "tagName": "span",
@@ -1284,9 +1284,9 @@
                                             "hoverable": false,
                                             "content": "04",
                                             "attributes": {
-                                              "id": "irk5q7"
+                                              "id": "i1wngm"
                                             },
-                                            "__symbol": "ikqcbk"
+                                            "__symbol": "ip9c8f"
                                           }
                                         ]
                                       }
@@ -1319,9 +1319,9 @@
                                         "hoverable": false,
                                         "content": "12 made",
                                         "attributes": {
-                                          "id": "iy33t3"
+                                          "id": "iy6k0m"
                                         },
-                                        "__symbol": "i9zjnh"
+                                        "__symbol": "i5id2k"
                                       }
                                     ]
                                   }
@@ -1354,9 +1354,9 @@
                                     "hoverable": false,
                                     "content": "Walnut pen case",
                                     "attributes": {
-                                      "id": "ij5xsn"
+                                      "id": "ixqmsf"
                                     },
-                                    "__symbol": "iy43at"
+                                    "__symbol": "i11v94"
                                   }
                                 ]
                               },
@@ -1387,9 +1387,9 @@
                                     "hoverable": false,
                                     "content": "Holds four pens and a bottle upright. Lacquered inside, oiled outside, no hardware.",
                                     "attributes": {
-                                      "id": "irk9c1"
+                                      "id": "i6tzpb"
                                     },
-                                    "__symbol": "ikirmi"
+                                    "__symbol": "idhye2"
                                   }
                                 ]
                               },
@@ -1420,9 +1420,9 @@
                                     "hoverable": false,
                                     "content": "95",
                                     "attributes": {
-                                      "id": "icwr9o"
+                                      "id": "ijjpu5"
                                     },
-                                    "__symbol": "i6zm06"
+                                    "__symbol": "i4228y"
                                   }
                                 ]
                               }
@@ -1535,9 +1535,9 @@
                                     "type": "textnode",
                                     "content": "The shoulder",
                                     "attributes": {
-                                      "id": "iyqeln"
+                                      "id": "i1iasv"
                                     },
-                                    "__symbol": "ijodbk"
+                                    "__symbol": "i4zir9"
                                   }
                                 ]
                               },
@@ -1557,9 +1557,9 @@
                                     "type": "textnode",
                                     "content": "The reed is opened at a long shallow angle so the ink has somewhere to sit. Cut it short and the pen runs dry mid-letter.",
                                     "attributes": {
-                                      "id": "is4dhf"
+                                      "id": "iexjea"
                                     },
-                                    "__symbol": "icxnmq"
+                                    "__symbol": "i0gpl8"
                                   }
                                 ]
                               }
@@ -1609,9 +1609,9 @@
                                     "hoverable": false,
                                     "content": "The slit",
                                     "attributes": {
-                                      "id": "i021e7"
+                                      "id": "if54f1"
                                     },
-                                    "__symbol": "ivc8kj"
+                                    "__symbol": "i2h8de"
                                   }
                                 ]
                               },
@@ -1642,9 +1642,9 @@
                                     "hoverable": false,
                                     "content": "One press splits the nib down the centre. It has to stop exactly where the shoulder ends, or the two halves will spread under pressure.",
                                     "attributes": {
-                                      "id": "i3xx6w"
+                                      "id": "i4sk3b"
                                     },
-                                    "__symbol": "iuyt75"
+                                    "__symbol": "i6x2lh"
                                   }
                                 ]
                               }
@@ -1694,9 +1694,9 @@
                                     "hoverable": false,
                                     "content": "The qatt",
                                     "attributes": {
-                                      "id": "ijmjmn"
+                                      "id": "ihktr4"
                                     },
-                                    "__symbol": "izpnl3"
+                                    "__symbol": "iletz4"
                                   }
                                 ]
                               },
@@ -1727,9 +1727,9 @@
                                     "hoverable": false,
                                     "content": "The tip is trimmed against the qat'ah at the angle your script needs — flat for thuluth, oblique for nastaliq. This is the cut you cannot take back.",
                                     "attributes": {
-                                      "id": "iar8oh"
+                                      "id": "iljiu8"
                                     },
-                                    "__symbol": "ip9w5p"
+                                    "__symbol": "inyqb6"
                                   }
                                 ]
                               }
@@ -1802,9 +1802,9 @@
                                     "type": "textnode",
                                     "content": "Can I order before the shop opens?",
                                     "attributes": {
-                                      "id": "i1gqe1"
+                                      "id": "iny3cl"
                                     },
-                                    "__symbol": "igbk5k"
+                                    "__symbol": "ieji3o"
                                   }
                                 ]
                               },
@@ -1821,9 +1821,9 @@
                                     "type": "textnode",
                                     "content": "No. Lot One is cut in a single run and every piece goes to the list in the order names came in. Adding your name is the whole queue.",
                                     "attributes": {
-                                      "id": "is2dz4"
+                                      "id": "i8ra2b"
                                     },
-                                    "__symbol": "iw3opf"
+                                    "__symbol": "iew1dl"
                                   }
                                 ]
                               }
@@ -1867,9 +1867,9 @@
                                     "hoverable": false,
                                     "content": "Do you cut for left hands?",
                                     "attributes": {
-                                      "id": "i8xp9w"
+                                      "id": "ixxvjk"
                                     },
-                                    "__symbol": "i7hox4"
+                                    "__symbol": "ipdcog"
                                   }
                                 ]
                               },
@@ -1897,9 +1897,9 @@
                                     "hoverable": false,
                                     "content": "Yes. Say so when you order and the qatt is reversed. There is no extra charge and no extra wait.",
                                     "attributes": {
-                                      "id": "iyhwbi"
+                                      "id": "iry50a"
                                     },
-                                    "__symbol": "i495hh"
+                                    "__symbol": "ino8kc"
                                   }
                                 ]
                               }
@@ -1943,9 +1943,9 @@
                                     "hoverable": false,
                                     "content": "How long does a reed pen last?",
                                     "attributes": {
-                                      "id": "ilztdt"
+                                      "id": "i5ss1n"
                                     },
-                                    "__symbol": "idw3ju"
+                                    "__symbol": "i9mmva"
                                   }
                                 ]
                               },
@@ -1973,9 +1973,9 @@
                                     "hoverable": false,
                                     "content": "A season of daily practice, then it wants re-cutting. We send a qat'ah with every pen and instructions for the second cut.",
                                     "attributes": {
-                                      "id": "ipbsmw"
+                                      "id": "iumtww"
                                     },
-                                    "__symbol": "infdxu"
+                                    "__symbol": "ifp7qb"
                                   }
                                 ]
                               }
@@ -2019,9 +2019,9 @@
                                     "hoverable": false,
                                     "content": "Do you ship outside the country?",
                                     "attributes": {
-                                      "id": "ivy90k"
+                                      "id": "ir8jw6"
                                     },
-                                    "__symbol": "ic3o1s"
+                                    "__symbol": "ijbihi"
                                   }
                                 ]
                               },
@@ -2049,9 +2049,9 @@
                                     "hoverable": false,
                                     "content": "Not for Lot One. Ink is a problem at customs and we would rather solve it properly than lose your parcel.",
                                     "attributes": {
-                                      "id": "i2ssgp"
+                                      "id": "iuojm2"
                                     },
-                                    "__symbol": "i8oxuz"
+                                    "__symbol": "iaqmfp"
                                   }
                                 ]
                               }
@@ -2576,10 +2576,10 @@
                       "type": "textnode",
                       "content": "Can I order before the shop opens?",
                       "attributes": {
-                        "id": "igbk5k"
+                        "id": "ieji3o"
                       },
                       "__symbols": [
-                        "i1gqe1"
+                        "iny3cl"
                       ]
                     }
                   ]
@@ -2599,10 +2599,10 @@
                       "type": "textnode",
                       "content": "No. Lot One is cut in a single run and every piece goes to the list in the order names came in. Adding your name is the whole queue.",
                       "attributes": {
-                        "id": "iw3opf"
+                        "id": "iew1dl"
                       },
                       "__symbols": [
-                        "is2dz4"
+                        "i8ra2b"
                       ]
                     }
                   ]
@@ -2651,10 +2651,10 @@
                       "hoverable": false,
                       "content": "Do you cut for left hands?",
                       "attributes": {
-                        "id": "i7hox4"
+                        "id": "ipdcog"
                       },
                       "__symbols": [
-                        "i8xp9w"
+                        "ixxvjk"
                       ]
                     }
                   ]
@@ -2685,10 +2685,10 @@
                       "hoverable": false,
                       "content": "Yes. Say so when you order and the qatt is reversed. There is no extra charge and no extra wait.",
                       "attributes": {
-                        "id": "i495hh"
+                        "id": "ino8kc"
                       },
                       "__symbols": [
-                        "iyhwbi"
+                        "iry50a"
                       ]
                     }
                   ]
@@ -2737,10 +2737,10 @@
                       "hoverable": false,
                       "content": "How long does a reed pen last?",
                       "attributes": {
-                        "id": "idw3ju"
+                        "id": "i9mmva"
                       },
                       "__symbols": [
-                        "ilztdt"
+                        "i5ss1n"
                       ]
                     }
                   ]
@@ -2771,10 +2771,10 @@
                       "hoverable": false,
                       "content": "A season of daily practice, then it wants re-cutting. We send a qat'ah with every pen and instructions for the second cut.",
                       "attributes": {
-                        "id": "infdxu"
+                        "id": "ifp7qb"
                       },
                       "__symbols": [
-                        "ipbsmw"
+                        "iumtww"
                       ]
                     }
                   ]
@@ -2823,10 +2823,10 @@
                       "hoverable": false,
                       "content": "Do you ship outside the country?",
                       "attributes": {
-                        "id": "ic3o1s"
+                        "id": "ijbihi"
                       },
                       "__symbols": [
-                        "ivy90k"
+                        "ir8jw6"
                       ]
                     }
                   ]
@@ -2857,10 +2857,10 @@
                       "hoverable": false,
                       "content": "Not for Lot One. Ink is a problem at customs and we would rather solve it properly than lose your parcel.",
                       "attributes": {
-                        "id": "i8oxuz"
+                        "id": "iaqmfp"
                       },
                       "__symbols": [
-                        "i2ssgp"
+                        "iuojm2"
                       ]
                     }
                   ]
@@ -2992,10 +2992,10 @@
                       "type": "textnode",
                       "content": "The shoulder",
                       "attributes": {
-                        "id": "ijodbk"
+                        "id": "i4zir9"
                       },
                       "__symbols": [
-                        "iyqeln"
+                        "i1iasv"
                       ]
                     }
                   ]
@@ -3018,10 +3018,10 @@
                       "type": "textnode",
                       "content": "The reed is opened at a long shallow angle so the ink has somewhere to sit. Cut it short and the pen runs dry mid-letter.",
                       "attributes": {
-                        "id": "icxnmq"
+                        "id": "i0gpl8"
                       },
                       "__symbols": [
-                        "is4dhf"
+                        "iexjea"
                       ]
                     }
                   ]
@@ -3076,10 +3076,10 @@
                       "hoverable": false,
                       "content": "The slit",
                       "attributes": {
-                        "id": "ivc8kj"
+                        "id": "i2h8de"
                       },
                       "__symbols": [
-                        "i021e7"
+                        "if54f1"
                       ]
                     }
                   ]
@@ -3113,10 +3113,10 @@
                       "hoverable": false,
                       "content": "One press splits the nib down the centre. It has to stop exactly where the shoulder ends, or the two halves will spread under pressure.",
                       "attributes": {
-                        "id": "iuyt75"
+                        "id": "i6x2lh"
                       },
                       "__symbols": [
-                        "i3xx6w"
+                        "i4sk3b"
                       ]
                     }
                   ]
@@ -3171,10 +3171,10 @@
                       "hoverable": false,
                       "content": "The qatt",
                       "attributes": {
-                        "id": "izpnl3"
+                        "id": "iletz4"
                       },
                       "__symbols": [
-                        "ijmjmn"
+                        "ihktr4"
                       ]
                     }
                   ]
@@ -3208,10 +3208,10 @@
                       "hoverable": false,
                       "content": "The tip is trimmed against the qat'ah at the angle your script needs — flat for thuluth, oblique for nastaliq. This is the cut you cannot take back.",
                       "attributes": {
-                        "id": "ip9w5p"
+                        "id": "inyqb6"
                       },
                       "__symbols": [
-                        "iar8oh"
+                        "iljiu8"
                       ]
                     }
                   ]
@@ -3392,10 +3392,10 @@
                           "type": "textnode",
                           "content": "Lot ",
                           "attributes": {
-                            "id": "i8zyv1"
+                            "id": "i0mkoh"
                           },
                           "__symbols": [
-                            "iylj42"
+                            "i5jutv"
                           ]
                         },
                         {
@@ -3413,10 +3413,10 @@
                               "type": "textnode",
                               "content": "01",
                               "attributes": {
-                                "id": "iw915t"
+                                "id": "im88to"
                               },
                               "__symbols": [
-                                "i6fkdp"
+                                "iwt5ez"
                               ]
                             }
                           ]
@@ -3441,10 +3441,10 @@
                           "type": "textnode",
                           "content": "Opens first",
                           "attributes": {
-                            "id": "iajz93"
+                            "id": "ihm5n2"
                           },
                           "__symbols": [
-                            "icxavo"
+                            "i50om2"
                           ]
                         }
                       ]
@@ -3469,10 +3469,10 @@
                       "type": "textnode",
                       "content": "Java reed pen, cut to your angle",
                       "attributes": {
-                        "id": "ike0zo"
+                        "id": "ie1th4"
                       },
                       "__symbols": [
-                        "io6qfg"
+                        "icm3g3"
                       ]
                     }
                   ]
@@ -3495,10 +3495,10 @@
                       "type": "textnode",
                       "content": "Seasoned three years, cut at the qatt you name. Ships with a bone qat'ah for the second cut.",
                       "attributes": {
-                        "id": "ic3k74"
+                        "id": "i2og1l"
                       },
                       "__symbols": [
-                        "iqlnyt"
+                        "i3hj8y"
                       ]
                     }
                   ]
@@ -3521,10 +3521,10 @@
                       "type": "textnode",
                       "content": "From 34",
                       "attributes": {
-                        "id": "icenbe"
+                        "id": "iwf5vh"
                       },
                       "__symbols": [
-                        "i8mqoi"
+                        "ipk2dm"
                       ]
                     }
                   ]
@@ -3621,10 +3621,10 @@
                           "hoverable": false,
                           "content": "Lot ",
                           "attributes": {
-                            "id": "ikd1f1"
+                            "id": "ik7mjs"
                           },
                           "__symbols": [
-                            "i602ax"
+                            "iu6ghe"
                           ]
                         },
                         {
@@ -3653,10 +3653,10 @@
                               "hoverable": false,
                               "content": "02",
                               "attributes": {
-                                "id": "icpnuw"
+                                "id": "isq70k"
                               },
                               "__symbols": [
-                                "iole7f"
+                                "iybv1f"
                               ]
                             }
                           ]
@@ -3692,10 +3692,10 @@
                           "hoverable": false,
                           "content": "30 made",
                           "attributes": {
-                            "id": "ib6k2i"
+                            "id": "i639si"
                           },
                           "__symbols": [
-                            "inlzns"
+                            "ig5ygk"
                           ]
                         }
                       ]
@@ -3731,10 +3731,10 @@
                       "hoverable": false,
                       "content": "Lamp-black ink, one cooking",
                       "attributes": {
-                        "id": "igwke1"
+                        "id": "iygqdk"
                       },
                       "__symbols": [
-                        "ious61"
+                        "iekb0m"
                       ]
                     }
                   ]
@@ -3768,10 +3768,10 @@
                       "hoverable": false,
                       "content": "Soot, gum arabic, and a long stir. Thirty bottles from a single pot, then the pot is done.",
                       "attributes": {
-                        "id": "ikuuch"
+                        "id": "itclmt"
                       },
                       "__symbols": [
-                        "inpie4"
+                        "i66wzg"
                       ]
                     }
                   ]
@@ -3805,10 +3805,10 @@
                       "hoverable": false,
                       "content": "18",
                       "attributes": {
-                        "id": "i89sug"
+                        "id": "iv2bu2"
                       },
                       "__symbols": [
-                        "ij3wbj"
+                        "ighzas"
                       ]
                     }
                   ]
@@ -3905,10 +3905,10 @@
                           "hoverable": false,
                           "content": "Lot ",
                           "attributes": {
-                            "id": "i7no7j"
+                            "id": "il95nk"
                           },
                           "__symbols": [
-                            "iq2jzy"
+                            "iue9ag"
                           ]
                         },
                         {
@@ -3937,10 +3937,10 @@
                               "hoverable": false,
                               "content": "03",
                               "attributes": {
-                                "id": "igfre9"
+                                "id": "i46hco"
                               },
                               "__symbols": [
-                                "imik9a"
+                                "ih2kei"
                               ]
                             }
                           ]
@@ -3976,10 +3976,10 @@
                           "hoverable": false,
                           "content": "Opens first",
                           "attributes": {
-                            "id": "iz3col"
+                            "id": "icvwdz"
                           },
                           "__symbols": [
-                            "i0h6ck"
+                            "is5y9n"
                           ]
                         }
                       ]
@@ -4015,10 +4015,10 @@
                       "hoverable": false,
                       "content": "Ahar paper, burnished by hand",
                       "attributes": {
-                        "id": "ivdkon"
+                        "id": "ijk8wt"
                       },
                       "__symbols": [
-                        "innmap"
+                        "il15hl"
                       ]
                     }
                   ]
@@ -4052,10 +4052,10 @@
                       "hoverable": false,
                       "content": "Sized with starch, dried flat, then run under agate until the surface refuses to bleed.",
                       "attributes": {
-                        "id": "ihfsw8"
+                        "id": "iv9vhi"
                       },
                       "__symbols": [
-                        "idkxlq"
+                        "i2bklg"
                       ]
                     }
                   ]
@@ -4089,10 +4089,10 @@
                       "hoverable": false,
                       "content": "26 for 25 sheets",
                       "attributes": {
-                        "id": "iksv5i"
+                        "id": "i66qqy"
                       },
                       "__symbols": [
-                        "iffuwb"
+                        "itdt76"
                       ]
                     }
                   ]
@@ -4189,10 +4189,10 @@
                           "hoverable": false,
                           "content": "Lot ",
                           "attributes": {
-                            "id": "igkxs8"
+                            "id": "iginlh"
                           },
                           "__symbols": [
-                            "igm5n3"
+                            "ic5y7b"
                           ]
                         },
                         {
@@ -4221,10 +4221,10 @@
                               "hoverable": false,
                               "content": "04",
                               "attributes": {
-                                "id": "ikqcbk"
+                                "id": "ip9c8f"
                               },
                               "__symbols": [
-                                "irk5q7"
+                                "i1wngm"
                               ]
                             }
                           ]
@@ -4260,10 +4260,10 @@
                           "hoverable": false,
                           "content": "12 made",
                           "attributes": {
-                            "id": "i9zjnh"
+                            "id": "i5id2k"
                           },
                           "__symbols": [
-                            "iy33t3"
+                            "iy6k0m"
                           ]
                         }
                       ]
@@ -4299,10 +4299,10 @@
                       "hoverable": false,
                       "content": "Walnut pen case",
                       "attributes": {
-                        "id": "iy43at"
+                        "id": "i11v94"
                       },
                       "__symbols": [
-                        "ij5xsn"
+                        "ixqmsf"
                       ]
                     }
                   ]
@@ -4336,10 +4336,10 @@
                       "hoverable": false,
                       "content": "Holds four pens and a bottle upright. Lacquered inside, oiled outside, no hardware.",
                       "attributes": {
-                        "id": "ikirmi"
+                        "id": "idhye2"
                       },
                       "__symbols": [
-                        "irk9c1"
+                        "i6tzpb"
                       ]
                     }
                   ]
@@ -4373,10 +4373,10 @@
                       "hoverable": false,
                       "content": "95",
                       "attributes": {
-                        "id": "i6zm06"
+                        "id": "i4228y"
                       },
                       "__symbols": [
-                        "icwr9o"
+                        "ijjpu5"
                       ]
                     }
                   ]
