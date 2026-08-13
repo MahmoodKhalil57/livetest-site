@@ -10,7 +10,7 @@
       "slug": "opening-notice",
       "name": "Opening notice",
       "status": "published",
-      "successMessage": "You are on the list — watch your inbox.",
+      "successMessage": "You are on the list \u2014 watch your inbox.",
       "fields": [
         {
           "name": "email",
@@ -40,9 +40,9 @@
     },
     {
       "slug": "wholesale",
-      "name": "Wholesale enquiry (trade)",
+      "name": "Wholesale enquiry (edited on github.com)",
       "status": "published",
-      "successMessage": "Thanks — we will come back to you with sizes and lead times.",
+      "successMessage": "Thanks \u2014 we will come back to you with sizes and lead times.",
       "fields": [
         {
           "name": "email",
@@ -78,6 +78,12 @@
             "is": "equal",
             "value": "large"
           }
+        },
+        {
+          "name": "company",
+          "label": "Company",
+          "type": "text",
+          "width": "half"
         }
       ],
       "site": {
