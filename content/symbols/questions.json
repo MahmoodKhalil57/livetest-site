@@ -1,7 +1,8 @@
 {
   "id": "questions",
-  "name": "questions",
+  "name": "Questions",
   "binding": {
     "type": "none"
-  }
+  },
+  "source": "questions.items"
 }
