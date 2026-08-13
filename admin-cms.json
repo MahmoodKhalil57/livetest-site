@@ -40,7 +40,7 @@
     },
     {
       "slug": "wholesale",
-      "name": "Wholesale enquiry",
+      "name": "Wholesale enquiry (trade)",
       "status": "published",
       "successMessage": "Thanks — we will come back to you with sizes and lead times.",
       "fields": [
@@ -62,6 +62,10 @@
             {
               "value": "large",
               "label": "50 or more"
+            },
+            {
+              "value": "pallet",
+              "label": "A pallet or more"
             }
           ]
         },
@@ -81,6 +85,20 @@
         "spamProtection": "honeypot",
         "retentionDays": 0
       }
+    },
+    {
+      "slug": "early-access",
+      "name": "Early access",
+      "status": "paused",
+      "fields": [
+        {
+          "name": "email",
+          "label": "Email",
+          "type": "email",
+          "required": true
+        }
+      ],
+      "successMessage": "You are on the list."
     }
   ]
 }
