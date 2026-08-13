@@ -2,7 +2,7 @@
   "$schema": "https://admincms-master.the-montiapple.workers.dev/schema/v1/project.json",
   "version": 1,
   "project": {
-    "name": "Qalam & Ahar",
+    "name": "Qalam & Ahar — edited in the panel",
     "slug": "qalam-ahar"
   },
   "forms": [
@@ -22,11 +22,18 @@
           "label": "Your name",
           "type": "text",
           "width": "half"
+        },
+        {
+          "name": "phone",
+          "label": "Phone",
+          "type": "tel",
+          "required": false,
+          "width": "half"
         }
       ],
       "settings": {
         "confirmationMessage": "You are on the list. Watch your inbox.",
-        "submitLabel": "Put my name down",
+        "submitLabel": "Add me to the list",
         "spamProtection": "honeypot",
         "retentionDays": 0
       }
