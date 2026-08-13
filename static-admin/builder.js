@@ -832,13 +832,23 @@
     );
   }
 
+  /* Parsed entries, matching what the other backends hand back. Returning the
+     wrapper instead loses every entry silently: the builder reads no ids, takes
+     the registry for empty, and rewrites the entry files it should have left
+     alone — taking their bindings with them. */
   function apiListDir(dir) {
     return apiFetch(
       "/api/builder/file?kind=dir&path=" + encodeURIComponent(dir)
     ).then(function (body) {
-      return (body.entries || []).map(function (entry) {
-        return { name: entry.name, text: entry.text };
-      });
+      return (body.entries || [])
+        .map(function (entry) {
+          try {
+            return JSON.parse(entry.text);
+          } catch (error) {
+            return null;
+          }
+        })
+        .filter(Boolean);
     });
   }
 
