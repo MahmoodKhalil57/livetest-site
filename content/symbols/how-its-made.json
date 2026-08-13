@@ -1,7 +1,8 @@
 {
   "id": "how-its-made",
-  "name": "how-its-made",
+  "name": "How it is made",
   "binding": {
     "type": "none"
-  }
+  },
+  "source": "craft.steps"
 }
