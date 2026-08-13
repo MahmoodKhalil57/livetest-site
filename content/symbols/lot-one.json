@@ -1,7 +1,9 @@
 {
   "id": "lot-one",
-  "name": "lot-one",
+  "name": "Lot One",
   "binding": {
     "type": "none"
-  }
+  },
+  "source": "catalog.items",
+  "title": "Edited via Save — live preview check"
 }
