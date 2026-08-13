@@ -10,7 +10,7 @@
       "slug": "opening-notice",
       "name": "Opening notice",
       "status": "published",
-      "successMessage": "You are on the list. Watch your inbox.",
+      "successMessage": "You are on the list — watch your inbox.",
       "fields": [
         {
           "name": "email",
@@ -23,6 +23,12 @@
           "name": "name",
           "label": "Your name",
           "type": "text",
+          "width": "half"
+        },
+        {
+          "name": "phone",
+          "label": "Phone",
+          "type": "tel",
           "width": "half"
         }
       ],
@@ -49,15 +55,25 @@
           "label": "Expected volume",
           "type": "select",
           "options": [
-            { "value": "small", "label": "Under 50" },
-            { "value": "large", "label": "50 or more" }
+            {
+              "value": "small",
+              "label": "Under 50"
+            },
+            {
+              "value": "large",
+              "label": "50 or more"
+            }
           ]
         },
         {
           "name": "detail",
           "label": "Tell us more",
           "type": "textarea",
-          "showWhen": { "field": "volume", "is": "equal", "value": "large" }
+          "showWhen": {
+            "field": "volume",
+            "is": "equal",
+            "value": "large"
+          }
         }
       ],
       "site": {
