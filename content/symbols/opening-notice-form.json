@@ -1,7 +1,9 @@
 {
   "id": "opening-notice-form",
-  "name": "opening-notice-form",
+  "name": "Opening notice form",
   "binding": {
-    "type": "none"
+    "type": "form",
+    "form": "opening-notice",
+    "success_note": "You are on the list. Watch your inbox."
   }
 }
